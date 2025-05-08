@@ -1,4 +1,4 @@
-**Project Background**
+## **Project Background**
 
 Lease Management System  is a rental platform project that includes both a mobile application and a backend management system.
 
@@ -7,7 +7,7 @@ The mobile application is designed for general users, offering features such as 
 The backend management system is intended for administrators, providing functionalities like apartment (property) management, rental management, and user management.
 
 ----------------------------------------------------------------------------------------------------
-**Functional Modules**
+## **Functional Modules**
 
 The detailed content of each functional module is as follows:
 
@@ -32,10 +32,9 @@ This module is used to manage user accounts for the backend system. Administrato
 Mobile User Management
 This module is responsible for managing user information for the mobile application. Administrators can view user profiles and handle related account issues.
 
-**Feature Showcase**
+## **Feature Showcase**
 Login Page
 ![Login Page](image/登录.png)
-![Login Page](image/登录2.png)
 
 
 System Management
