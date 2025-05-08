@@ -37,18 +37,22 @@ Login Page
 ![Login Page](image/登录.png)
 ![Login Page](image/登录2.png)
 
+
 System Management
 ![Login Page](image/用户管理.png)
 ![Login Page](image/岗位.png)
+
 
 Apartment Management
 ![Login Page](image/公寓管理.png)
 ![Login Page](image/房间管理.png)
 ![Login Page](image/属性管理.png)
 
+
 Lease Management
 ![Login Page](image/看房预约管理.png)
 ![Login Page](image/租约管理.png)
+
 
 User Management
 ![Login Page](image/用户管理2.png)
