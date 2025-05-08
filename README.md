@@ -65,18 +65,23 @@ The detailed content of each functional module is as follows:
 
 Login
 Utilizes Alibaba Cloud API for SMS-based verification to provide secure and convenient login for users.
+![Login Page](image_mobile/管理.png)
+
 
 Property Search
 Users can use this feature to search and filter available rental listings based on their specific requirements. They can quickly find suitable apartments by specifying criteria such as location, rent range, payment methods, and more.
+![Login Page](image_mobile/找房.png)
+
 
 Viewing Appointment Management
 This feature allows users to schedule property viewings at their convenience. They can select a suitable time to visit specific apartments, helping them better understand the property’s condition and surroundings before making a decision.
+![Login Page](image_mobile/房间详情.png)
 
 Lease Management
 This feature enables users to view and manage their lease agreements. They can access their lease contracts through the mobile app and submit requests for contract termination or extension as needed.
-
 Property Browsing History
 Users can view their previously browsed properties in this section. This feature helps users keep track of apartments they have shown interest in, making it easier for them to revisit listings or make final decisions.
+![Login Page](image_mobile/个人中心.png)
 
 
 
