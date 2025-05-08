@@ -78,9 +78,11 @@ This feature allows users to schedule property viewings at their convenience. Th
 ![Login Page](image_mobile/房间详情.png)
 
 Lease Management
+
 This feature enables users to view and manage their lease agreements. They can access their lease contracts through the mobile app and submit requests for contract termination or extension as needed.
 Property Browsing History
 Users can view their previously browsed properties in this section. This feature helps users keep track of apartments they have shown interest in, making it easier for them to revisit listings or make final decisions.
+
 ![Login Page](image_mobile/个人中心.png)
 
 
