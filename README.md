@@ -65,7 +65,8 @@ The detailed content of each functional module is as follows:
 
 Login
 Utilizes Alibaba Cloud API for SMS-based verification to provide secure and convenient login for users.
-![Login Page](image_mobile/管理.png)
+
+![Login Page](image_mobile/登录.png)
 
 
 Property Search
