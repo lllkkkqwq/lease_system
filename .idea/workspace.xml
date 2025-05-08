@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0385c2e1-bfc1-43c6-ada3-f286c3642e10" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2mhaOEQm0bTMlJgST2icpGLgJO0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/33053/Desktop/軟件規範中的形式化方法/lease&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ef3b7b7a90d52439edc76dc3e277746f&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\33053\IdeaProjects\lease\web\web-app\src\main\java" />
+      <recent name="C:\Users\33053\IdeaProjects\lease\web\web-app\src\main\resources" />
+      <recent name="C:\Users\33053\IdeaProjects\lease\common\src\main\java" />
+      <recent name="C:\Users\33053\IdeaProjects\lease\web\web-admin\src\main\java" />
+      <recent name="C:\Users\33053\IdeaProjects\lease\model\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.atguigu.lease.web.app.service.impl" />
+      <recent name="com.atguigu.lease.web.admin.schedule" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AppWebApplication">
+    <configuration name="JwtUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.lease.common.utils.JwtUtil" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.lease.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleTasksTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.lease.web.admin.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.lease.web.admin.schedule" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.lease.web.admin.schedule.ScheduleTasksTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsServiceImplTest.sendCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.lease.web.app.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.lease.web.app.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.lease.web.app.service.impl.SmsServiceImplTest" />
+      <option name="METHOD_NAME" value="sendCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.lease.AdminWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="web-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.lease.AppWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.lease.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AppWebApplication" />
+        <item itemvalue="应用程序.JwtUtil" />
+        <item itemvalue="JUnit.SmsServiceImplTest.sendCode" />
+        <item itemvalue="JUnit.ScheduleTasksTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0385c2e1-bfc1-43c6-ada3-f286c3642e10" name="更改" comment="" />
+      <created>1727531228715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727531228715</updated>
+      <workItem from="1727531229815" duration="72000" />
+      <workItem from="1727531309609" duration="27000" />
+      <workItem from="1727531342573" duration="645000" />
+      <workItem from="1727532239911" duration="11049000" />
+      <workItem from="1727547012578" duration="2628000" />
+      <workItem from="1727549737200" duration="2284000" />
+      <workItem from="1727553278627" duration="1140000" />
+      <workItem from="1727613631099" duration="8365000" />
+      <workItem from="1727671949333" duration="8296000" />
+      <workItem from="1727708976961" duration="7490000" />
+      <workItem from="1727764817730" duration="23426000" />
+      <workItem from="1727852255399" duration="9256000" />
+      <workItem from="1727862088188" duration="17557000" />
+      <workItem from="1727942880657" duration="17333000" />
+      <workItem from="1728047650778" duration="7247000" />
+      <workItem from="1728114992776" duration="19507000" />
+      <workItem from="1728137633777" duration="1024000" />
+      <workItem from="1728198248069" duration="11595000" />
+      <workItem from="1728278302007" duration="3902000" />
+      <workItem from="1728398617495" duration="179000" />
+      <workItem from="1728465527054" duration="19984000" />
+      <workItem from="1728550205558" duration="6342000" />
+      <workItem from="1728566541415" duration="762000" />
+      <workItem from="1728567414980" duration="253000" />
+      <workItem from="1728568517192" duration="757000" />
+      <workItem from="1728570013151" duration="17000" />
+      <workItem from="1728570407910" duration="3689000" />
+      <workItem from="1728892449861" duration="3000" />
+      <workItem from="1728905558910" duration="143000" />
+      <workItem from="1729487821763" duration="2331000" />
+      <workItem from="1729905600032" duration="757000" />
+      <workItem from="1730986917145" duration="15000" />
+      <workItem from="1730991741984" duration="478000" />
+      <workItem from="1731300398662" duration="59000" />
+      <workItem from="1731300489842" duration="1133000" />
+      <workItem from="1732191245101" duration="1137000" />
+      <workItem from="1732192440798" duration="54000" />
+      <workItem from="1732192509853" duration="17000" />
+      <workItem from="1732364495965" duration="168000" />
+      <workItem from="1732781057050" duration="32000" />
+      <workItem from="1732781143592" duration="151000" />
+      <workItem from="1732843729027" duration="653000" />
+      <workItem from="1732880500384" duration="621000" />
+      <workItem from="1732894441646" duration="1714000" />
+      <workItem from="1734438430903" duration="1075000" />
+      <workItem from="1734439925824" duration="112000" />
+      <workItem from="1736916348785" duration="405000" />
+      <workItem from="1736916888886" duration="1097000" />
+      <workItem from="1738805038741" duration="194000" />
+      <workItem from="1739696979100" duration="155000" />
+      <workItem from="1742292496440" duration="2501000" />
+      <workItem from="1742312649637" duration="1014000" />
+      <workItem from="1742314363422" duration="820000" />
+      <workItem from="1742315457439" duration="911000" />
+      <workItem from="1742317309641" duration="2156000" />
+      <workItem from="1742319946082" duration="815000" />
+      <workItem from="1742358776110" duration="305000" />
+      <workItem from="1742359659587" duration="658000" />
+      <workItem from="1743040268841" duration="166000" />
+      <workItem from="1744041550467" duration="144000" />
+      <workItem from="1744182671145" duration="314000" />
+      <workItem from="1744799108744" duration="1216000" />
+      <workItem from="1745227614650" duration="333000" />
+      <workItem from="1745228253692" duration="1030000" />
+      <workItem from="1745230472551" duration="1213000" />
+      <workItem from="1745231735295" duration="1063000" />
+      <workItem from="1745233696328" duration="3653000" />
+      <workItem from="1745237947879" duration="3554000" />
+      <workItem from="1745242636661" duration="2100000" />
+      <workItem from="1745245226308" duration="305000" />
+      <workItem from="1745311246245" duration="4335000" />
+      <workItem from="1745383604325" duration="4756000" />
+      <workItem from="1746016532233" duration="38000" />
+      <workItem from="1746256196177" duration="2367000" />
+      <workItem from="1746355182837" duration="1448000" />
+      <workItem from="1746439294470" duration="2255000" />
+      <workItem from="1746580356211" duration="928000" />
+      <workItem from="1746619886661" duration="677000" />
+      <workItem from="1746621362189" duration="490000" />
+      <workItem from="1746628101810" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
