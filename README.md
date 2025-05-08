@@ -70,11 +70,13 @@ Utilizes Alibaba Cloud API for SMS-based verification to provide secure and conv
 
 
 Property Search
+
 Users can use this feature to search and filter available rental listings based on their specific requirements. They can quickly find suitable apartments by specifying criteria such as location, rent range, payment methods, and more.
 ![Login Page](image_mobile/找房.png)
 
 
 Viewing Appointment Management
+
 This feature allows users to schedule property viewings at their convenience. They can select a suitable time to visit specific apartments, helping them better understand the property’s condition and surroundings before making a decision.
 ![Login Page](image_mobile/房间详情.png)
 
