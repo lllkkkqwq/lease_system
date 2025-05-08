@@ -8,6 +8,7 @@ The backend management system is intended for administrators, providing function
 
 ----------------------------------------------------------------------------------------------------
 **Functional Modules**
+
 The detailed content of each functional module is as follows:
 
 Apartment Information Management
@@ -33,4 +34,4 @@ This module is responsible for managing user information for the mobile applicat
 
 **Feature Showcase**
 Login Page
-![Uploading image.png…]()
+![Login Page](C:\Users\33053\Desktop\项目管理\图片)
