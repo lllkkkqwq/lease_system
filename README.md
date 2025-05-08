@@ -6,7 +6,7 @@ The mobile application is designed for general users, offering features such as 
 
 The backend management system is intended for administrators, providing functionalities like apartment (property) management, rental management, and user management.
 
-----------------------------------------------------------------------------------------------------
+
 ## **Functional Modules**
 
 The detailed content of each functional module is as follows:
