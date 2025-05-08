@@ -34,4 +34,4 @@ This module is responsible for managing user information for the mobile applicat
 
 **Feature Showcase**
 Login Page
-![Login Page](C:\Users\33053\Desktop\项目管理\图片)
+![Login Page](images/登录.png)
